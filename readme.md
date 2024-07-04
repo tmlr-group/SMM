@@ -1,6 +1,10 @@
 # Sample-specific Masks for Visual Reprogramming-based Prompting
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![Static Badge](https://img.shields.io/badge/View-Slides-brightgreen)](https://drive.google.com/file/d/1SUxqoo5Ef0UHJF6vPSjfk_FQ854zei5n/view?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/View-Poster-purple)](https://drive.google.com/file/d/1IIiTG6CEu3OzaIBhwnmmn6vtJvq8qJFC/view?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/Pub-ICML'24-red)](https://openreview.net/forum?id=4sikyurTLX)
+
 
 This repository is the official PyTorch implementation of the **ICML2024** paper:
 [Sample-specific Masks for Visual Reprogramming-based Prompting](https://arxiv.org/abs/2406.03150),
