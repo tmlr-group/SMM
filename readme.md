@@ -1,4 +1,4 @@
-# Sample-specific Masks for Visual Reprogramming-based Prompting
+# Sample-specific Masks for Visual Reprogramming-based Prompting [ICML 2024 Spotlight]
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Static Badge](https://img.shields.io/badge/View-Slides-brightgreen)](https://drive.google.com/file/d/1SUxqoo5Ef0UHJF6vPSjfk_FQ854zei5n/view?usp=sharing)
